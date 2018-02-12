@@ -35,7 +35,6 @@ $.ajax({
     success: function (res) {
         let str = "";
         let data = res.result.list;
-        console.log(data);
         $.each(data, function (i, v) {
             str += `
                 <p class="text-content">
