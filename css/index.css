@@ -1,0 +1,96 @@
+@import "base.css";
+
+nav {
+    width: 100%;
+    height: .8rem;
+    /*background: #e8e8e8;*/
+    background: rgba(255,255,255,.9);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 111;
+}
+
+nav a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #000000;
+    font-size: .4rem;
+    font-weight: bold;
+    text-align: center;
+    line-height: 0.87rem;
+}
+
+/*底部*/
+footer {
+    width: 100%;
+    height: 1rem;
+    background: #e8e8e8;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    z-index: 111;
+}
+
+.lz {
+    float: left;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    line-height: 1rem;
+    color: #000;
+    font-size: .3rem;
+    font-weight: 500;
+    border-radius: .3rem;
+}
+
+.lz.active {
+    color: #ffffff;
+    background: rgba(0, 0, 0, .8);
+}
+
+.content {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-top: .88rem;
+}
+.content ul{
+    width: 100%;
+    position: relative;
+}
+.content ul li{
+    width: 100%;
+    padding-bottom: 1.1rem;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, .3) 0%, #ffffff 80%);
+    position: absolute;
+    top:0;
+    left:0;
+    display: none;
+}
+.content ul li.active{
+    display: block;
+}
+.content ul li h1 {
+    text-align: center;
+}
+
+.content ul li .text-joke .addtime {
+    width: 100%;
+    color: #000;
+    font-size: .4rem;
+    font-weight: 600;
+    padding: 0 0.2rem;
+}
+
+.content ul li .text-joke .text-content {
+    width: 100%;
+    padding: 0 0.2rem;
+    margin: .3rem 0;
+    font-size: .35rem;
+    color: #000;
+    line-height: 0.4rem;
+}
