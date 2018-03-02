@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82b894ec-2457-4e74-bd21-8844cefc7589" name="默认的" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-3.2.1.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/index.js" afterPath="$PROJECT_DIR$/js/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,12 +17,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+            <state relative-caret-position="4">
+              <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+              <folding>
+                <marker date="1520001078459" expanded="true" signature="7:515" ph="{&quot;url&quot;: &quot;https://api.jisuapi.com/xiaohua/text?appkey=3503d1b15fac317b&quot;...}" />
+                <marker date="1520001078459" expanded="true" signature="92:120" ph="{...}" />
+                <marker date="1520001078459" expanded="true" signature="173:513" ph="{...}" />
+                <marker date="1520001078459" expanded="true" signature="270:472" ph="{...}" />
+                <marker date="1520001078459" expanded="true" signature="390:446" ph="..." />
+                <marker date="1520001078459" expanded="true" signature="545:759" ph="{...}" />
+                <marker date="1520001078459" expanded="true" signature="770:1333" ph="{&quot;url&quot;: &quot;https://api.jisuapi.com/miyu/search?appkey=3503d1b15fac317b&quot;...}" />
+                <marker date="1520001078459" expanded="true" signature="854:922" ph="{...}" />
+                <marker date="1520001078459" expanded="true" signature="975:1331" ph="{...}" />
+                <marker date="1520001078459" expanded="true" signature="1072:1293" ph="{...}" />
+                <marker date="1520001078459" expanded="true" signature="1134:1188" ph="..." />
+                <marker date="1520001078459" expanded="true" signature="1211:1267" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,17 +58,26 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/aaa.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/index.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-4" />
     <option name="y" value="11" />
     <option name="width" value="1378" />
@@ -104,9 +136,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -130,15 +164,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519999681015</updated>
-      <workItem from="1519999686566" duration="90000" />
+      <workItem from="1519999686566" duration="1448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90000" />
+    <option name="totallyTimeSpent" value="1448000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13616072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -173,11 +207,40 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/aaa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+        <state relative-caret-position="4">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding>
+            <marker date="1520001078459" expanded="true" signature="7:515" ph="{&quot;url&quot;: &quot;https://api.jisuapi.com/xiaohua/text?appkey=3503d1b15fac317b&quot;...}" />
+            <marker date="1520001078459" expanded="true" signature="92:120" ph="{...}" />
+            <marker date="1520001078459" expanded="true" signature="173:513" ph="{...}" />
+            <marker date="1520001078459" expanded="true" signature="270:472" ph="{...}" />
+            <marker date="1520001078459" expanded="true" signature="390:446" ph="..." />
+            <marker date="1520001078459" expanded="true" signature="545:759" ph="{...}" />
+            <marker date="1520001078459" expanded="true" signature="770:1333" ph="{&quot;url&quot;: &quot;https://api.jisuapi.com/miyu/search?appkey=3503d1b15fac317b&quot;...}" />
+            <marker date="1520001078459" expanded="true" signature="854:922" ph="{...}" />
+            <marker date="1520001078459" expanded="true" signature="975:1331" ph="{...}" />
+            <marker date="1520001078459" expanded="true" signature="1072:1293" ph="{...}" />
+            <marker date="1520001078459" expanded="true" signature="1134:1188" ph="..." />
+            <marker date="1520001078459" expanded="true" signature="1211:1267" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

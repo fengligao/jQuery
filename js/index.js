@@ -1,5 +1,5 @@
 $.ajax({
-    url: "http://api.jisuapi.com/xiaohua/text?appkey=3503d1b15fac317b",
+    url: "https://api.jisuapi.com/xiaohua/text?appkey=3503d1b15fac317b",
     data: {
         pagesize: 10
     },
@@ -25,7 +25,7 @@ $(".lz").click(function () {
 });
 
 $.ajax({
-    url: "http://api.jisuapi.com/miyu/search?appkey=3503d1b15fac317b",
+    url: "https://api.jisuapi.com/miyu/search?appkey=3503d1b15fac317b",
     data: {
         classid: 1,
         pagesize: 2,
