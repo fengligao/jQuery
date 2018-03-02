@@ -27,7 +27,6 @@ $(".lz").click(function () {
 $.ajax({
     url: "https://api.jisuapi.com/miyu/search?appkey=3503d1b15fac317b",
     data: {
-        classid: 1,
         pagesize: 2,
         pagenum: 1,
     },
